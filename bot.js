@@ -1037,10 +1037,10 @@ client.on('ready', () => {
       console.log(`ON ${client.guilds.size} Servers `);
     console.log(`---------------`);
   console.log(`Logged in as ${client.user.tag}!`);
-  client.user.setGame(`| @help | VomLem`,"http://twitch.tv/y04zgamer")
+  client.user.setGame(`| @help |Moonlight Bot`,"http://twitch.tv/y04zgamer")
    client.user.setStatus("dnd")
 });
 
 
 
-client.login("BOT_TOKEN");
+client.login("NTM0MDUzMzA3NjA2NDk5MzI4.Dxz_dA.BWK03biNqnG_wQFTrbwO6HMJRMk");
